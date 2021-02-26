@@ -1,0 +1,19 @@
+---
+title: "Assignment 3"
+author: "Jaime Ortiz"
+date: "2/26/2021"
+output: html_document
+---
+
+## Jaime Ortiz 
+
+https://github.com/jaimeortiz-david
+
+```{r Jaime, echo=FALSE, fig.cap="Me in Galapagos", out.width = '90%'}
+knitr::include_graphics("dkvZPJU4_400x400.jpg")
+```
+
+
+
+## Mahnaz Sepehrmanesh
+
