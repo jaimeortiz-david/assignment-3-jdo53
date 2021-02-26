@@ -1,11 +1,12 @@
 ---
 title: "Jaime"
-author: "Jaime Ortiz"
-date: "2/26/2021"
 output: html_document
 ---
+<br>
 
-## Things that I like
+I am from the Galapagos Islands in Ecuador
+
+#### Things that I like
 
 * Swimming
 * Snorkeling

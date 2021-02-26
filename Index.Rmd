@@ -1,9 +1,8 @@
 ---
 title: "Assignment 3"
-author: "Jaime Ortiz"
-date: "2/26/2021"
 output: html_document
 ---
+<br>
 
 ## Jaime Ortiz 
 
@@ -14,6 +13,7 @@ knitr::include_graphics("dkvZPJU4_400x400.jpg")
 ```
 
 
+<br>
 
 ## Mahnaz Sepehrmanesh
 
