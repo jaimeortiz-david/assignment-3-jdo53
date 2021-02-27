@@ -2,7 +2,7 @@ output_dir: "."
 navbar:
   left:
     - text: "Home"
-      href: index.html
+      href: Index.html
     - text: "Jaime"
       href: Jaime.html
     - text: "Mahnaz"
