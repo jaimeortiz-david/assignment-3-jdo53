@@ -1,0 +1,21 @@
+---
+title: "Assignment-3"
+
+output: html_document
+---
+<br>
+
+## Jaime Ortiz 
+
+https://github.com/jaimeortiz-david
+
+```{r Jaime, echo=FALSE, fig.cap="Me in Galapagos", out.width = '90%'}
+knitr::include_graphics("dkvZPJU4_400x400.jpg")
+```
+
+
+<br>
+
+## Mahnaz Sepehrmanesh
+
+https://github.com/mahnazsepar
